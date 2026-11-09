@@ -1,0 +1,1952 @@
+fileFormatVersion: 2
+guid: c367906b175afd54a8d54f7c1e2652ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1173897349994528994
+    second: MetaFinal_0
+  - first:
+      213: 6733237031514571562
+    second: MetaFinal_1
+  - first:
+      213: 990664677895426354
+    second: MetaFinal_2
+  - first:
+      213: 859957718796197168
+    second: MetaFinal_3
+  - first:
+      213: 3406595003011028966
+    second: MetaFinal_4
+  - first:
+      213: 8023705767744899772
+    second: MetaFinal_5
+  - first:
+      213: -7484322745891557512
+    second: MetaFinal_6
+  - first:
+      213: 587889832312658446
+    second: MetaFinal_7
+  - first:
+      213: -2205193659233889794
+    second: MetaFinal_8
+  - first:
+      213: 3162125510507542566
+    second: MetaFinal_9
+  - first:
+      213: -1676102409178503429
+    second: MetaFinal_10
+  - first:
+      213: -5924314796903657085
+    second: MetaFinal_11
+  - first:
+      213: -1022382398184882550
+    second: MetaFinal_12
+  - first:
+      213: 3571053780404974953
+    second: MetaFinal_13
+  - first:
+      213: -6067946599936825253
+    second: MetaFinal_14
+  - first:
+      213: 4995174368299865115
+    second: MetaFinal_15
+  - first:
+      213: 3029063564649971281
+    second: MetaFinal_16
+  - first:
+      213: 1748868425046772075
+    second: MetaFinal_17
+  - first:
+      213: 6536907508780826426
+    second: MetaFinal_18
+  - first:
+      213: 8256934863022074244
+    second: MetaFinal_19
+  - first:
+      213: 8075661352944550864
+    second: MetaFinal_20
+  - first:
+      213: -4861362566931632631
+    second: MetaFinal_21
+  - first:
+      213: 1080948581793285896
+    second: MetaFinal_22
+  - first:
+      213: 2269950606402146401
+    second: MetaFinal_23
+  - first:
+      213: 8031186605583425752
+    second: MetaFinal_24
+  - first:
+      213: 1142189523536084214
+    second: MetaFinal_25
+  - first:
+      213: -5715622358278900172
+    second: MetaFinal_26
+  - first:
+      213: 4987023420394516747
+    second: MetaFinal_27
+  - first:
+      213: -9083444696924586555
+    second: MetaFinal_28
+  - first:
+      213: 8830087862675157666
+    second: MetaFinal_29
+  - first:
+      213: -189804777974923494
+    second: MetaFinal_30
+  - first:
+      213: -6336349143877117357
+    second: MetaFinal_31
+  - first:
+      213: -5581962681743487968
+    second: MetaFinal_32
+  - first:
+      213: 8095532297152405001
+    second: MetaFinal_33
+  - first:
+      213: 8093661759588426005
+    second: MetaFinal_34
+  - first:
+      213: 6596597348366971362
+    second: MetaFinal_35
+  - first:
+      213: -6009489702930635357
+    second: MetaFinal_36
+  - first:
+      213: -1561596710040621952
+    second: MetaFinal_37
+  - first:
+      213: 2237985681401600296
+    second: MetaFinal_38
+  - first:
+      213: -1940529327920812965
+    second: MetaFinal_39
+  - first:
+      213: 5881071569379122080
+    second: MetaFinal_40
+  - first:
+      213: 4519777383253541378
+    second: MetaFinal_41
+  - first:
+      213: -6063917339446301240
+    second: MetaFinal_42
+  - first:
+      213: -8525631451384395629
+    second: MetaFinal_43
+  - first:
+      213: -8395367160146101129
+    second: MetaFinal_44
+  - first:
+      213: 1406338626509654678
+    second: MetaFinal_45
+  - first:
+      213: 4170366255113672995
+    second: MetaFinal_46
+  - first:
+      213: -5769017757991638618
+    second: MetaFinal_47
+  - first:
+      213: -7223953893302540198
+    second: MetaFinal_48
+  - first:
+      213: 2041497242016067413
+    second: MetaFinal_49
+  - first:
+      213: 1198411122747035524
+    second: MetaFinal_50
+  - first:
+      213: -7417879874890509782
+    second: MetaFinal_51
+  - first:
+      213: 3962834739505111907
+    second: MetaFinal_52
+  - first:
+      213: 8260816906975854433
+    second: MetaFinal_53
+  - first:
+      213: -1780672507693465217
+    second: MetaFinal_54
+  - first:
+      213: 2686463702500596474
+    second: MetaFinal_55
+  - first:
+      213: 3870754293611163813
+    second: MetaFinal_56
+  - first:
+      213: -7656081772975150012
+    second: MetaFinal_57
+  - first:
+      213: 8519293660251979210
+    second: MetaFinal_58
+  - first:
+      213: -2927954718488800489
+    second: MetaFinal_59
+  - first:
+      213: 2220550823666756255
+    second: MetaFinal_60
+  - first:
+      213: 8923823230605578940
+    second: MetaFinal_61
+  - first:
+      213: -5511379379053223831
+    second: MetaFinal_62
+  - first:
+      213: 5568203904814341872
+    second: MetaFinal_63
+  - first:
+      213: 2428370898476635254
+    second: MetaFinal_64
+  - first:
+      213: 5812603317559419200
+    second: MetaFinal_65
+  - first:
+      213: 6286536191880554846
+    second: MetaFinal_66
+  - first:
+      213: 3555089278068538321
+    second: MetaFinal_67
+  - first:
+      213: -4753954159219464925
+    second: MetaFinal_68
+  - first:
+      213: 7969816650343356109
+    second: MetaFinal_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MetaFinal_0
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 997
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fbdca649a75bfe0800000000000000
+      internalID: -1173897349994528994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_1
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 0
+        width: 613
+        height: 1022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a238eebe763417d50800000000000000
+      internalID: 6733237031514571562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_2
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 997
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231db79964c8fbd00800000000000000
+      internalID: 990664677895426354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_3
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 994
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03dd3be2dfe2feb00800000000000000
+      internalID: 859957718796197168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_4
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 984
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7d7183b18a64f20800000000000000
+      internalID: 3406595003011028966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_5
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 984
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba00b462ede95f60800000000000000
+      internalID: 8023705767744899772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_6
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 968
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fe1c2cd18522890800000000000000
+      internalID: -7484322745891557512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_7
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 975
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a5f0e00ba982800800000000000000
+      internalID: 587889832312658446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_8
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 949
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef19b60fc049561e0800000000000000
+      internalID: -2205193659233889794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 837
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628b00de56022eb20800000000000000
+      internalID: 3162125510507542566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_10
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 824
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf62dbd3db94db8e0800000000000000
+      internalID: -1676102409178503429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_11
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 762
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38197f0a41b98cda0800000000000000
+      internalID: -5924314796903657085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_12
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 733
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ef39b20a4cfc1f0800000000000000
+      internalID: -1022382398184882550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_13
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 689
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965bad63e7eee8130800000000000000
+      internalID: 3571053780404974953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_14
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 641
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58e9ba77b25acba0800000000000000
+      internalID: -6067946599936825253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_15
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 621
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1456a55f9c625540800000000000000
+      internalID: 4995174368299865115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_16
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 599
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e3a0d6345690a20800000000000000
+      internalID: 3029063564649971281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_17
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 520
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b694fc1119a354810800000000000000
+      internalID: 1748868425046772075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_18
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 517
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ff676ceb2c7ba50800000000000000
+      internalID: 6536907508780826426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_19
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 492
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48928f3c286869270800000000000000
+      internalID: 8256934863022074244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_20
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 498
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d34c9cb633821070800000000000000
+      internalID: 8075661352944550864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_21
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 485
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ea8a18088f88cb0800000000000000
+      internalID: -4861362566931632631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_22
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 458
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807404e020d400f00800000000000000
+      internalID: 1080948581793285896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_23
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 460
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1605840cc0c708f10800000000000000
+      internalID: 2269950606402146401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_24
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 468
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0ecaeaaa1847f60800000000000000
+      internalID: 8031186605583425752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_25
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 440
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc7a80f15fd9df00800000000000000
+      internalID: 1142189523536084214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_26
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 450
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43671807fb70ea0b0800000000000000
+      internalID: -5715622358278900172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_27
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 435
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b013b23e067753540800000000000000
+      internalID: 4987023420394516747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_28
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 424
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd77ee9c2f11f180800000000000000
+      internalID: -9083444696924586555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_29
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 399
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2bd369026ca8a70800000000000000
+      internalID: 8830087862675157666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_30
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 395
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ff1206f8dad5df0800000000000000
+      internalID: -189804777974923494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_31
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 387
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a9a5a6604c018a0800000000000000
+      internalID: -6336349143877117357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_32
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 380
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c4135f382e882b0800000000000000
+      internalID: -5581962681743487968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_33
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 379
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e98777bbb195070800000000000000
+      internalID: 8095532297152405001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_34
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 355
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5116e600d76725070800000000000000
+      internalID: 8093661759588426005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_35
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 351
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e172bb8652db8b50800000000000000
+      internalID: 6596597348366971362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_36
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 359
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5a37f64f00a9ca0800000000000000
+      internalID: -6009489702930635357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_37
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 340
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c2c9fd018145ae0800000000000000
+      internalID: -1561596710040621952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_38
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 316
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8295a50be1cee0f10800000000000000
+      internalID: 2237985681401600296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_39
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 341
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c6d0d8bdad115e0800000000000000
+      internalID: -1940529327920812965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_40
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 310
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abdd7fde63cd9150800000000000000
+      internalID: 5881071569379122080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_41
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 305
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2020ca0559979be30800000000000000
+      internalID: 4519777383253541378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_42
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 281
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cda8face43a8dba0800000000000000
+      internalID: -6063917339446301240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_43
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 277
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398c55e9d5fdea980800000000000000
+      internalID: -8525631451384395629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_44
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 291
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cf2846c0aad7b80800000000000000
+      internalID: -8395367160146101129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_45
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 267
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ac40b9781548310800000000000000
+      internalID: 1406338626509654678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_46
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 248
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3299353730e10e930800000000000000
+      internalID: 4170366255113672995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_47
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 257
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9ecf72ae450ffa0800000000000000
+      internalID: -5769017757991638618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_48
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 233
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58e6eb453c5fbb90800000000000000
+      internalID: -7223953893302540198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_49
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 201
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fae40ecead45c10800000000000000
+      internalID: 2041497242016067413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_50
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 182
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fc632119c91a010800000000000000
+      internalID: 1198411122747035524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_51
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 187
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22d1ae2e856e0990800000000000000
+      internalID: -7417879874890509782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_52
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 190
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363a7c71331def630800000000000000
+      internalID: 3962834739505111907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_53
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 183
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f36de853154a270800000000000000
+      internalID: 8260816906975854433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_54
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 165
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7180a5e9c7c947e0800000000000000
+      internalID: -1780672507693465217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_55
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 155
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa5781018c384520800000000000000
+      internalID: 2686463702500596474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_56
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 130
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0f28b958ea7b530800000000000000
+      internalID: 3870754293611163813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_57
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 140
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c297ee03220c590800000000000000
+      internalID: -7656081772975150012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_58
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 146
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd7e84627c9a3670800000000000000
+      internalID: 8519293660251979210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_59
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 136
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713db0e42b0dd57d0800000000000000
+      internalID: -2927954718488800489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_60
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 127
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9aab5a853bf0de10800000000000000
+      internalID: 2220550823666756255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_61
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 87
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2df92a2f9c7db70800000000000000
+      internalID: 8923823230605578940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_62
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 100
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960ae11c7a5a383b0800000000000000
+      internalID: -5511379379053223831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_63
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 93
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fed66723fb364d40800000000000000
+      internalID: 5568203904814341872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_64
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 76
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6749892577e43b120800000000000000
+      internalID: 2428370898476635254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_65
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 62
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041e26bbbe38aa050800000000000000
+      internalID: 5812603317559419200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_66
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 23
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e596da8eb534e3750800000000000000
+      internalID: 6286536191880554846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_67
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 33
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db331cdcd6365130800000000000000
+      internalID: 3555089278068538321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_68
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 4
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325ab3531ef860eb0800000000000000
+      internalID: -4753954159219464925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetaFinal_69
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 13
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc695b0840a7a9e60800000000000000
+      internalID: 7969816650343356109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MetaFinal_0: -1173897349994528994
+      MetaFinal_1: 6733237031514571562
+      MetaFinal_10: -1676102409178503429
+      MetaFinal_11: -5924314796903657085
+      MetaFinal_12: -1022382398184882550
+      MetaFinal_13: 3571053780404974953
+      MetaFinal_14: -6067946599936825253
+      MetaFinal_15: 4995174368299865115
+      MetaFinal_16: 3029063564649971281
+      MetaFinal_17: 1748868425046772075
+      MetaFinal_18: 6536907508780826426
+      MetaFinal_19: 8256934863022074244
+      MetaFinal_2: 990664677895426354
+      MetaFinal_20: 8075661352944550864
+      MetaFinal_21: -4861362566931632631
+      MetaFinal_22: 1080948581793285896
+      MetaFinal_23: 2269950606402146401
+      MetaFinal_24: 8031186605583425752
+      MetaFinal_25: 1142189523536084214
+      MetaFinal_26: -5715622358278900172
+      MetaFinal_27: 4987023420394516747
+      MetaFinal_28: -9083444696924586555
+      MetaFinal_29: 8830087862675157666
+      MetaFinal_3: 859957718796197168
+      MetaFinal_30: -189804777974923494
+      MetaFinal_31: -6336349143877117357
+      MetaFinal_32: -5581962681743487968
+      MetaFinal_33: 8095532297152405001
+      MetaFinal_34: 8093661759588426005
+      MetaFinal_35: 6596597348366971362
+      MetaFinal_36: -6009489702930635357
+      MetaFinal_37: -1561596710040621952
+      MetaFinal_38: 2237985681401600296
+      MetaFinal_39: -1940529327920812965
+      MetaFinal_4: 3406595003011028966
+      MetaFinal_40: 5881071569379122080
+      MetaFinal_41: 4519777383253541378
+      MetaFinal_42: -6063917339446301240
+      MetaFinal_43: -8525631451384395629
+      MetaFinal_44: -8395367160146101129
+      MetaFinal_45: 1406338626509654678
+      MetaFinal_46: 4170366255113672995
+      MetaFinal_47: -5769017757991638618
+      MetaFinal_48: -7223953893302540198
+      MetaFinal_49: 2041497242016067413
+      MetaFinal_5: 8023705767744899772
+      MetaFinal_50: 1198411122747035524
+      MetaFinal_51: -7417879874890509782
+      MetaFinal_52: 3962834739505111907
+      MetaFinal_53: 8260816906975854433
+      MetaFinal_54: -1780672507693465217
+      MetaFinal_55: 2686463702500596474
+      MetaFinal_56: 3870754293611163813
+      MetaFinal_57: -7656081772975150012
+      MetaFinal_58: 8519293660251979210
+      MetaFinal_59: -2927954718488800489
+      MetaFinal_6: -7484322745891557512
+      MetaFinal_60: 2220550823666756255
+      MetaFinal_61: 8923823230605578940
+      MetaFinal_62: -5511379379053223831
+      MetaFinal_63: 5568203904814341872
+      MetaFinal_64: 2428370898476635254
+      MetaFinal_65: 5812603317559419200
+      MetaFinal_66: 6286536191880554846
+      MetaFinal_67: 3555089278068538321
+      MetaFinal_68: -4753954159219464925
+      MetaFinal_69: 7969816650343356109
+      MetaFinal_7: 587889832312658446
+      MetaFinal_8: -2205193659233889794
+      MetaFinal_9: 3162125510507542566
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
